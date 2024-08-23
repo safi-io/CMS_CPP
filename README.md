@@ -19,5 +19,5 @@ The CMS application is a console-based program that provides basic contact manag
 ## Dependencies
 - This project requires a C++ compiler that supports C++11 or later. There are no additional libraries needed beyond the C++ Standard Library.
 
-Contributors
+## Contributors
 Safi - Initial work
